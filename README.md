@@ -16,4 +16,4 @@ We will build a small web based portal during this workshop. The idea is to get 
 
 ### Team Members-
 - Soujanya Janapatla
-- Prasad GD
+- Prasad Golla Durga
