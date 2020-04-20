@@ -49,11 +49,13 @@ Despite being lightweight, React quintessentially is a UI library. There is only
 
 ### Link to the Project
 [Repository URL](https://github.com/jscodebit/react_project)
+
 [Demo Link](https://jscomplete.com/playground/s459989)
 
 ### Video URL
 
 [React Introduction](https://use.vg/sgc84F)
+
 [App Demo Video](https://use.vg/W88ddx)
 
 ### Team Members-
