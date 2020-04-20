@@ -52,6 +52,9 @@ Despite being lightweight, React quintessentially is a UI library. There is only
 
 [Demo Link](https://jscomplete.com/playground/s459989)
 
+[React Introduction](https://use.vg/sgc84F)
+[App Demo Video](https://use.vg/W88ddx)
+
 ### Team Members-
 - Soujanya Janapatla
 - Prasad Golla Durga
