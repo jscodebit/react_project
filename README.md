@@ -7,12 +7,15 @@ Design single page application for web based projects using React Framework.
 We will build a small web based portal during this workshop. The idea is to get hands-on experience on the basic functionality of the framework, and to apply it to develop a real time application.
 
 ### Agenda
-- Introducing JSX
+- Introduction
+- Installation of React Components
+- Modern JavaScript
 - Rendering Elements
 - Components and Props
-- State and Lifecycle (super important!)
+- State and Lifecycle 
 - Handling Events
-- Composition vs Inheritance
+- Forms
+- Demo App : GitHub Card
 
 ### Team Members-
 - Soujanya Janapatla
