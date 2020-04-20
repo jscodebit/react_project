@@ -47,6 +47,11 @@ The roadblock that developers and product managers are known to face is the limi
 ##### Very UI-centric
 Despite being lightweight, React quintessentially is a UI library. There is only so much it can do to enhance performance and robustness of a web app through its core functionalities. Angular and Vue would be considered more extensive with regard to creating full-scale projects unlike React.
 
+### Link to the Project
+[Repository URL](https://github.com/jscodebit/react_project)
+
+[Demo Link](https://jscomplete.com/playground/s459989)
+
 ### Team Members-
 - Soujanya Janapatla
 - Prasad Golla Durga
