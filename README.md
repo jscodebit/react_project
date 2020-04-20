@@ -17,6 +17,13 @@ We will build a small web based portal during this workshop. The idea is to get 
 - Forms
 - Demo App : GitHub Card
 
+### How react gained popularity?
+The "virtual" browser (vs DOM API) that is friendlier than real browser.
+Performance with the virtual browser.
+"Just JavaScript" - a very small react API to learn after that the JavaScript skills are what make you a better react developer.
+React Native (for the win)
+Learning React pays off big time for IOS and Android mobile applications. React Native allows to use same react skills to build native application. 
+
 ### Team Members-
 - Soujanya Janapatla
 - Prasad Golla Durga
