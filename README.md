@@ -26,7 +26,7 @@ Performance with the virtual browser.
 React Native (for the win)
 Learning React pays off big time for IOS and Android mobile applications. React Native allows to use same react skills to build native application. 
 
-#### Advantages of Developing Modern Web apps with React.js
+### Advantages of Developing Modern Web apps with React.js
 ##### ReactJS has Power-Packed Features
 - Component Creation
 - Virtual DOM
@@ -41,7 +41,7 @@ When engineers and managers collaboratively decide upon migrating from an older 
 ##### Quickly Debug Faults
 ##### Improve Code Stability With Tests
 
-#### Some Drawbacks
+### Some Drawbacks
 ##### Counterproductive Documentation
 The roadblock that developers and product managers are known to face is the limitation of documentation within React.
 ##### Very UI-centric
